@@ -55,7 +55,6 @@ The integration test in `FROSTVerifier.t.sol` reads `test/testdata/frost_vector.
 | Library | Purpose |
 |---|---|
 | `forge-std` | Foundry test utilities |
-| `openzeppelin-contracts-upgradeable` | OZ v5 (included for future hook/executor modules) |
 
 ---
 
