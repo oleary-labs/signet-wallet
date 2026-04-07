@@ -1,0 +1,7 @@
+./send-userop \
+  --rpc      $ALCHEMY_API \
+  --bundler  $ALCHEMY_API \
+  --sender   0x30eE95B996fF67aE122c9f23307eeb4AD70B7349 \
+  --key      $SIGNET_KEY \
+  --to       0xd04131b641f32cA7cd3AB805189467492c9e9360 \
+  --value    0.01eth

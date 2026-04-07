@@ -1,0 +1,6 @@
+FACTORY=0xDd2ce0290596Ebd1897FB58cfF8eF4012C87E4F6 \
+  GROUP_PUBLIC_KEY=0x03ba81688507e7e2e2f29c90aebe66cc05aef00ad25fb79a8f2989fa7aab81ba8f \
+  forge script script/CreateSignetAccount.s.sol \
+    --rpc-url $ALCHEMY_API \
+    --broadcast \
+    --private-key $PRIVATE_KEY
