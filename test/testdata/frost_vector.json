@@ -1,0 +1,8 @@
+{
+  "groupPubKey": "0x03ba81688507e7e2e2f29c90aebe66cc05aef00ad25fb79a8f2989fa7aab81ba8f",
+  "msgHash": "0x4badeece6c056bd51ae542637718a0c9ae9ea5cf5c3c6b5687ca9a3b77319067",
+  "sigRx": "0xb3480f95d8a8a830ddd23b41e758b8b27cb11d082ee0e466ababed3a357e1632",
+  "sigV": 1,
+  "sigZ": "0x0c2a0df0f0f991a6cbabe79d7d28c2178a9a704afbc718ca9a3766bef2825518",
+  "signer": "0xd051c8072cc737d4f4ef99b0cc84a6e7c17f809c"
+}
